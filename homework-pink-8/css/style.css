@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #6ABBE2;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+.text {
+  padding: 40px;
+  font-weight: 400;
+  font-size: 25px; 
+}
+
+header>h2 {
+  
+}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.display {
+  height: 1000px;
+  width: 100%;
+  background-color: #6668F1;
+  padding-top: 300px;
+}
+
+.display-midle {
+  height: 500px;
+  width: 500px;
+  background: #fff;
+  margin: 0 auto;
+}
+
+.display-padding {
+  padding: 50px;
+}
+
+.theme {
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: #2C223B;
+  margin-bottom: 40px;
+}
+
+.display-theme {
+  font-family: 'Poppins', sans-serif;
+  color: #2C223B;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.display-email-input {
+  padding: 10px 105px 10px 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #F5F3F4;
+  margin-bottom: 15px;
+}
+
+.display-password {
+  font-family: 'Poppins', sans-serif;
+  color: #2C223B;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.display-passwor-input {
+  padding: 10px 105px 10px 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #F5F3F4;
+  margin-bottom: 30px;
+}
+
+.button {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 175px;
+  bottom: none;
+  border-radius: 10px;
+  background-color: #1BC073;
+  color: #fff;
+}
